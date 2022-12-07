@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Level
+  - GameUI
+  - Platform
+  - DesignLevel
+  - WeaponStand
+  - Weapon
+  - ChangeWeapon
+  - ShowWeapons
+  - Bullet
+  - Bot
+  - Blood
+  - Background
+  - CameraImpact
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Bots
+  - Blood
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackgroundLevel
+    uniqueID: 2967457683
+    locked: 0
+  - name: PlatformsLevel
+    uniqueID: 2412767839
+    locked: 0
+  - name: BotsLevel
+    uniqueID: 3812531997
+    locked: 0
+  - name: PlayerLevel
+    uniqueID: 1736365769
+    locked: 0
